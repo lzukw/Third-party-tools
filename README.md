@@ -2,10 +2,28 @@
 
 Copy of third-party-tools used in my other projects.
 
-These third-party-tools are all open-source, the licences should be in the zip-file of each tool.
+These third-party-tools are all open-source. Most of the compressed files contain the License and or a link to where the source-code can be found.
 
-Downloaded files and source-code can be found here (as of June 2020):
+The macOS-ffmpeg files only contain the binaries. 
 
-- [https://ffmpeg.zeranoe.com/builds/]
-- [https://www.tightvnc.com/download-old.php]
-- [https://archive.realvnc.com/download/open/windows/]
+## FFmpeg
+
+Original website:
+[https://ffmpeg.org]()
+
+Source-code (git-repositories): [https://git.ffmpeg.org/ffmpeg.git]()
+Mirror on github: [https://github.com/FFmpeg/FFmpeg]()
+
+The prebuilt binaries here were downloaded (on June 2020) from:
+
+- [https://ffmpeg.zeranoe.com/builds/]() ...for Windows
+- [https://evermeet.cx/ffmpeg/]() ...for macOS
+
+## VNC® Open
+
+The source-code and the Windows-installer can be downloaded here:
+
+- [https://archive.realvnc.com/download/open/windows/]().
+
+See the README.md in the fodler VNCopen for further information
+
